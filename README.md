@@ -11,4 +11,12 @@ The 3 webpage files are located in the Develop folder, being index.html which is
 
 Screenshots are below for how the Employee Payroll Data Webpage should look and function:
 
+![image](https://github.com/Ashley55mv/Module-3-Challenge/assets/142479568/06d83433-c2e0-4980-8241-34ae79b5b452)
+
+![image](https://github.com/Ashley55mv/Module-3-Challenge/assets/142479568/77409515-8e38-4cbb-a11a-0b423ec91992)
+
+
+
+
+
 
